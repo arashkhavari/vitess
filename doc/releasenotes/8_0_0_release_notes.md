@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 ## Incompatible Changes
 
 *This release includes the following changes which may result in incompatibilities when upgrading from a previous release*. *It is important that Vitess components are* _[upgraded in the recommended order](https://vitess.io/docs/user-guides/upgrading/#upgrade-order)_. *This will change in the next release as documented in* *[VEP-3](https://github.com/vitessio/enhancements/blob/master/veps/vep-3.md).*
 
+=======
+>>>>>>> d1e4efbdc2080cfd1fb84fd09d123b31300ae7cb
 This update fixes several regressions that were deemed significant enough to be backported to the release branch. In addition, the experimental feature to set system variables is now behind a flag that disables it by default.
 
 Configuration Changes
